@@ -15,7 +15,7 @@ This bot provides a ticketing system for your Discord server. It allows users to
 
 Install the required libraries using pip:
 ```
-pip install disnake
+pip3 install disnake
 ```
 
 ## Setup
